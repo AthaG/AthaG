@@ -9,6 +9,8 @@ I love learning new things! In the repos you can find a small sample of what I d
 Find me also on: 
     
    [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athanasia-giagtzidou-268557182)
+   
+   [![image](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15831008/atha?tab=profile)
 <!--
 **AthaG/AthaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
