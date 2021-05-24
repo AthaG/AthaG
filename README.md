@@ -1,4 +1,5 @@
-### Hi, Athanasia here 👋 
+## Hi, Athanasia here 👋 
+___
 
 I'm from 🌞Greece🇬🇷 but since 2014 I live in ⛷️Switzerland🇨🇭! Both countries are always in my ❤️.
 My career started as a Librarian but somewhere along the way I discovered my passion for data manipulation. This led me to a master's degree in Information and Data Management and the realization that I love statistics, sql and databases!
