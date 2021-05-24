@@ -9,9 +9,13 @@ I love learning new things! In the repos you can find a small sample of what I d
 
 Find me also on: 
     
-   [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athanasia-giagtzidou-268557182)
+   [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athanasia-giagtzidou-268557182 "LinkedIn: Athanasia")
    
-   [![image](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15831008/atha?tab=profile)
+   [![image](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Athanasia "Codewars: Athanasia")
+   
+   [![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=blue)](https://public.tableau.com/profile/athanasia.giagtzidou#!/?newProfile=&activeTab=0 "Tableau Public: Athanasia")
+   
+   [![image](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15831008/atha?tab=profile "Stack_Overflow: Athanasia")
 <!--
 **AthaG/AthaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
