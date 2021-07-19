@@ -1,7 +1,7 @@
 ## Hi, Athanasia here 👋 
 ___
 
-I am from 🌞Greece🇬🇷 but since 2014 I live in ⛷️Switzerland🇨🇭 and I have both countries in my ❤️!
+🌞Greece🇬🇷 is my home country but since 2014 I live in ⛷️Switzerland🇨🇭. Both countries are in my ❤️!
 My career started as a Librarian and somewhere along the way I discovered my passion for data manipulation. This led me to a master's degree in Information and Data Management and the realization that I love statistics, SQL and databases!
 
 My coding journey began in 2018 with ![Markdown logo](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen). I am now a big fan of the language and use it especially for data analysis, data visualization and machine learning. 
